@@ -1,3 +1,3 @@
 <?php
-	echo "Welcome to PHP Powered Website";
+	echo "Version2: Welcome to PHP Powered Website";
 ?>
